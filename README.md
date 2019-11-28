@@ -3,10 +3,15 @@
 ## Requirements
 python3
 ### Python packages
+
 (install with pip)
+
 tensorflow
+
 tensorflow_hub
+
 imutils
+
 matplotlib
 
 ## Training
